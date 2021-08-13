@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>610859914771-lnob46bpmk9up64dionet320smsl4ajk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.610859914771-lnob46bpmk9up64dionet320smsl4ajk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>610859914771-or6sdgbakfo9ep1r8hpqof0g8v1f3l90.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuDM-S0vH1HKOuFdLTVVAony3ospEtXWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>610859914771</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.movieMarathon</string>
+	<key>PROJECT_ID</key>
+	<string>moviemarathon-9a5ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviemarathon-9a5ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:610859914771:ios:22cf7eec1db195a4bf91e6</string>
+</dict>
+</plist>

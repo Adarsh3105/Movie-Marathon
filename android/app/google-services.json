@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "610859914771",
+    "project_id": "moviemarathon-9a5ba",
+    "storage_bucket": "moviemarathon-9a5ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610859914771:android:0ff43b35476a4311bf91e6",
+        "android_client_info": {
+          "package_name": "com.example.movie_marathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610859914771-or6sdgbakfo9ep1r8hpqof0g8v1f3l90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_marathon",
+            "certificate_hash": "e82e63f7d32e83a7b317e0206170376b06484be8"
+          }
+        },
+        {
+          "client_id": "610859914771-i58o9mfhk0755gjv7rclfugpfjes9u2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwETt8mH2JMs15FpaNQ7Z4Pmc_G6xonmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610859914771-i58o9mfhk0755gjv7rclfugpfjes9u2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
